@@ -1,0 +1,2 @@
+"""INIT"""
+from . import log
